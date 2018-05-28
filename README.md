@@ -20,5 +20,7 @@ https://thepihut.com/collections/raspberry-pi-camera/products/zerocam-nightvisio
 
 ### Articles/Videos
 https://www.youtube.com/watch?v=ZC4VUt1I5FI
+https://www.sciencedirect.com/science/article/pii/S0045790615002190
+https://www.youtube.com/watch?v=AsoLF6NsqBI
 
 
