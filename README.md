@@ -8,17 +8,17 @@ This readme will serve as a placeholder for references, to read articles and oth
 ## Scope of project
 
 
-##Resources
+## Resources
 
-###Software
+### Software
 https://github.com/CRM-UAM/VisionRace
 
-###Hardware
+### Hardware
 https://thepihut.com/collections/raspberry-pi-camera/products/raspberry-pi-camera-module
 https://thepihut.com/collections/raspberry-pi-camera/products/zerocam-nightvision-for-pizero-raspberry-pi-3
 
 
-###Articles/Videos
+### Articles/Videos
 https://www.youtube.com/watch?v=ZC4VUt1I5FI
 
 
