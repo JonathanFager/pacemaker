@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/JonathanFager/pacemaker/master/images/pacemakerlogo@4x.png" align="middle" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonathanFager/pacemaker/master/images/pacemakerlogo@4x.png" align="middle" />
+</p>
 
 
 
