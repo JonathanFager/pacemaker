@@ -1,4 +1,9 @@
+<img src="https://raw.githubusercontent.com/JonathanFager/pacemaker/master/images/pacemakerlogo.png" align="middle" />
+
+
+
 # Pacemaker
+
 
 Pacemaker project aims to create an easy to use, reliable and awesome linefollower robot to use for runners during training.
 
